@@ -1,7 +1,7 @@
 # Stardew-Valley-Bahasa-Indonesia-Multiplatform
 ini adalah semua text yang ada di game Stardew Valley Semua Platform, jika kalian berniat ingin menerjemahkan game ini, silahkan terjemahkan semua text yang ada di repo ini ke bahasa indonesia. 
 
-selamat menerjemahkan!\
+selamat menerjemahkan! \
 
 === Indra Constantine Fans Translation Supreme === \
 • Website: www.indrasundanese.com  \
